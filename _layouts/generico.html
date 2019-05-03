@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html>
+	{% include head.html %}
+
+	<body>
+	
+		{% include header.html %}
+
+		<section class="wrapper">
+			<div class="inner">
+				<header class="align-center">
+					<h1>{{ page.title }}</h1>
+					<p>{{ page.tag }}</p>
+				</header>
+				<div class="flex flex2">
+					<div class="col col2 align-justify">
+						{{ content }}
+					</div>
+				</div>
+			</div>
+		</section>
+
+		{% if page.form == "si" %}
+			{% include form.html %}
+		{% endif %}
+
+		{% include footer.html %}
+
+	</body>
+</html>

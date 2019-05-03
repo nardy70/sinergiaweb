@@ -1,0 +1,20 @@
+---
+title: Sabina
+layout: generico
+tag: La cosa fondamentale nel mio lavoro e' stata e sara' sempre la formazione.
+sitemap:
+---
+
+![](images/profili/sabina.jpg){:.image.round.right}
+
+Nel lontano 1998, dopo 9 anni di esperienza lavorativa da dipendente, decisi di iniziare una nuova avventura assieme a mia cugina Mariangela: inaugurammo cosi' "Pelo Matto" un nuovo salone di parrucchiera a Gonars (UD).
+
+La cosa fondamentale nel mio lavoro e' stata e sara' sempre la formazione.
+Frequentare diverse accademie internazionali mi ha permesso di attingere da questi diversi stili e reinterpretarli secondo il mio gusto.
+
+Sei anni fa e' cominciato un nuovo percorso dettato da nuove esigenze da parte della clientela e da una consapevolezza personale.
+L’attenzione particolare per la cute per cercare di migliorare i disagi che sempre piu' frequentemente la clientela presenta mi ha portato ad uno studio piu’ approfondito per capire l’origine delle problematiche legate ad essa.
+
+Da qui la ricerca di come apportare giovamento utilizzando prodotti naturali in abbinamento a tecniche di massaggio per favorire il rilassamento e il miglior assorbimento del trattamento.
+
+Questo continuo desiderio di andare oltre ai capelli mi porta tutt’oggi a fare formazione in maniera ancora piu' specifica e approfondita per essere un punto di riferimento per quella clientela esigente che cerca la bellezza dei capelli unita al benessere.
