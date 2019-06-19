@@ -34,11 +34,8 @@ I danni del sole non riguardano solo la pelle del corpo ma anche i capelli subis
 - **RICOSTRUZIONE PROTEICA:** trattamento che va a dare proteine, quindi struttura alla fibra capillare ricostruendola  soprattutto dove è più svuotata e rovinata. Otterrai uno spessore consistente dello stelo, i capelli risulteranno notevolmente rinforzati e il colore durerà più a lungo.
 - **SHIRODHARA :** colata a base di olio di sesamo armonizzato con sinergie di oli essenziali per donare idratazione ai capelli ed apportare equilibrio alla cute. Dona profondo relax.
 
-**IN OMAGGIO SHAMPOO DOCCIA E MASCHERA SPECIFICI PER L’ESTATE  PER MANTENERE ANCHE A CASA I BENEFICI DEI TRATTAMENTI EFFETTUATI!**
-
 **COSA OTTIENI?**
 <br>I benefici che otterrai seguendo un giusto percorso di bellezza per i tuoi capelli sono innumerevoli:
-
 - lucentezza;
 - morbidezza;
 - colore che si mantiene più a lungo;

@@ -8,7 +8,7 @@ sitemap:
 
 ![](images/trattamenti/wellness.jpg){:.image.round.right}
 
-L’estate non e' ancora finita ma i tuoi capelli hanno gia' passato uno dei  periodi piu' stressanti dell’anno. Sole, salsedine, cloro, caldo, lavaggi frequenti, uso eccessivo di elastici, contribuiscono a debilitare e a sfibrare il capello con conseguente caduta gia' ad agosto.
+L’estate non e' ancora finita ma i tuoi capelli hanno gia' passato uno dei periodi piu' stressanti dell’anno. Sole, salsedine, cloro, caldo, lavaggi frequenti, uso eccessivo di elastici, contribuiscono a debilitare e a sfibrare il capello con conseguente caduta gia' ad agosto.
 
 Durante l’estate hai provveduto ad utilizzare dei prodotti specifici di protezione, detersione e idratazione?
 Se la risposta e' **NO** molto probabilmente lo stress a cui i tuoi capelli sono andati incontro sara' tutt’altro che lieve…
