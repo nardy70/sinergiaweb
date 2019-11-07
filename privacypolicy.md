@@ -20,9 +20,9 @@ image: /images/logo/privacypolicy.jpg
 
 6. Se l'utente ha meno di 16 anni, ai sensi dell'art.8, c.1 regolamento UE 2016/679, dovrà legittimare il suo consenso attraverso l'autorizzazione dei genitori o di chi ne fa le veci.
 
-#### I - TRATTAMENTO DEI DATI
-
 {:.align-center}
+
+#### I - TRATTAMENTO DEI DATI
 
 #### 1 - Titolare dei Dati
 
@@ -42,9 +42,9 @@ image: /images/logo/privacypolicy.jpg
 
 2. In caso di necessità, i dati connessi al servizio newsletter possono essere trattati dal responsabile del trattamento o soggetti da esso incaricati a tal fine presso la relativa sede.
 
-#### II - COOKIES
-
 {:.align-center}
+
+#### II - COOKIES
 
 #### 1 - Tipo di Cookies
 
@@ -94,9 +94,9 @@ image: /images/logo/privacypolicy.jpg
 
 3. Si applicherà l'articolo 22 del Regolamento UE 2016/679 e l'articolo 122 del Codice in materia di protezione dei dati.
 
-#### III - DATI TRATTATI
-
 {:.align-center}
+
+#### III - DATI TRATTATI
 
 #### 1 - Modalità trattamento dati
 
@@ -158,9 +158,9 @@ image: /images/logo/privacypolicy.jpg
 - **[AddThis](http://www.addthis.com/privacy/privacy-policy){:target="\_blank"}**
 - **[Linkedin](https://www.linkedin.com/legal/cookie-policy){:target="\_blank"}**
 
-#### IV - DIRITTI DELL'UTENTE
-
 {:.align-center}
+
+#### IV - DIRITTI DELL'UTENTE
 
 1. L'art. 13, c. 2 del Regolamento UE 2016/679 elenca i diritti dell'utente.
 
@@ -178,25 +178,25 @@ image: /images/logo/privacypolicy.jpg
 
 6. Per una disamina più approfondita dei diritti che Le competono, si vedano gli artt. 15 e ss. del Regolamento UE 2016/679 e l'art. 7 del D.Lgs. 196/2003.
 
-#### V - TRASFERIMENTO DATI A PAESI EXTRA UE
-
 {:.align-center}
+
+#### V - TRASFERIMENTO DATI A PAESI EXTRA UE
 
 1. Il presente sito potrebbe condividere alcuni dei dati raccolti con servizi localizzati al di fuori dell'area dell'Unione Europea. In particolare con Google, Facebook e Microsoft (LinkedIn) tramite i social plugin e il servizio di Google Analytics. Il trasferimento è autorizzato e strettamente regolato dall'articolo 45, comma 1 del Regolamento UE 2016/679, per cui non occorre ulteriore consenso. Le aziende sopra menzionate garantiscono la propria adesione al Privacy Shield.
 
 2. Non verranno mai trasferiti dati a Paesi terzi che non rispettino le condizioni previste dall'articolo 45 e ss, del Regolamento UE.
 
-#### VI - SICUREZZA DATI FORNITI
-
 {:.align-center}
+
+#### VI - SICUREZZA DATI FORNITI
 
 1. Il presente sito tratta i dati degli utenti in maniera lecita e corretta, adottando le opportune misure di sicurezza volte ad impedire accessi non autorizzati, divulgazione, modifica o distruzione non autorizzata dei dati. Il trattamento viene effettuato mediante strumenti informatici e/o telematici, con modalità organizzative e con logiche strettamente correlate alle finalità indicate.
 
 2. Oltre al titolare, in alcuni casi, potrebbero avere accesso ai dati categorie di incaricati coinvolti nell'organizzazione del sito (personale amministrativo, commerciale, marketing, legali, amministratori di sistema) ovvero soggetti esterni (come fornitori di servizi tecnici terzi, corrieri postali, hosting provider, società informatiche, agenzie di comunicazione).
 
-#### VII - MODIFICHE AL PRESENTE DOCUMENTO
-
 {:.align-center}
+
+#### VII - MODIFICHE AL PRESENTE DOCUMENTO
 
 1. Il presente documento, pubblicato all'indirizzo:
 
