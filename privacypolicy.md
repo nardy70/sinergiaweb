@@ -102,12 +102,12 @@ image: /images/logo/privacypolicy.jpg
 
 1. Come tutti i siti web anche il presente sito fa uso di log files nei quali vengono conservate informazioni raccolte in maniera automatizzata durante le visite degli utenti. Le informazioni raccolte potrebbero essere le seguenti:
 
-- indirizzo internet protocol (IP);
-- tipo di browser e parametri del dispositivo usato per connettersi al sito;
-- nome dell'internet service provider (ISP);
-- data e orario di visita;
-- pagina web di provenienza del visitatore (referral) e di uscita;
-- eventualmente il numero di click.
+   > - indirizzo internet protocol (IP);
+   > - tipo di browser e parametri del dispositivo usato per connettersi al sito;
+   > - nome dell'internet service provider (ISP);
+   > - data e orario di visita;
+   > - pagina web di provenienza del visitatore (referral) e di uscita;
+   > - eventualmente il numero di click.
 
 2. Le suddette informazioni sono trattate in forma automatizzata e raccolte in forma esclusivamente aggregata al fine di verificare il corretto funzionamento del sito, e per motivi di sicurezza. Tali informazioni saranno trattate in base ai legittimi interessi del titolare.
 
@@ -121,7 +121,7 @@ image: /images/logo/privacypolicy.jpg
 
 1. I dati raccolti dal sito durante il suo funzionamento sono utilizzati per finalità sopra indicate e per le seguenti finalità:
 
-> richiesta dati per finalita' di marketing e/o tramite invio di newsletter e/o messaggi in formato elettronico per la comunicazione di eventuali offerte limitate e promozioni esclusive.
+   > richiesta dati per finalita' di marketing e/o tramite invio di newsletter e/o messaggi in formato elettronico per la comunicazione di eventuali offerte limitate e promozioni esclusive.
 
 2. La conservazione dei dati sarà effettuata per il periodo strettamente necessario al raggiungimento della finalità sopra indicata e comunque non superiore a tali periodi.
 
@@ -139,11 +139,11 @@ image: /images/logo/privacypolicy.jpg
 
 2. Per ulteriori informazioni e supporto è possibile anche visitare la pagina di aiuto specifica del web browser che si sta utilizzando:
 
-- **[Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies){:target="\_blank"}**
-- **[Firefox](https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences){:target="\_blank"}**
-- **[Safari](http://www.apple.com/legal/privacy/it/){:target="\_blank"}**
-- **[Chrome](https://support.google.com/accounts/answer/61416?hl=it){:target="\_blank"}**
-- **[Opera](http://www.opera.com/help/tutorials/security/cookies/){:target="\_blank"}**
+   > - **[Internet Explorer](http://windows.microsoft.com/en-us/windows-vista/block-or-allow-cookies){:target="\_blank"}**
+   > - **[Firefox](https://support.mozilla.org/en-us/kb/enable-and-disable-cookies-website-preferences){:target="\_blank"}**
+   > - **[Safari](http://www.apple.com/legal/privacy/it/){:target="\_blank"}**
+   > - **[Chrome](https://support.google.com/accounts/answer/61416?hl=it){:target="\_blank"}**
+   > - **[Opera](http://www.opera.com/help/tutorials/security/cookies/){:target="\_blank"}**
 
 #### 5 - Plugin Social Network
 
@@ -151,12 +151,12 @@ image: /images/logo/privacypolicy.jpg
 
 2. La raccolta e l'uso delle informazioni ottenute a mezzo del plugin sono regolati dalle rispettive informative privacy dei social network, alle quali si prega di fare riferimento:
 
-- **[Facebook](https://www.facebook.com/help/cookies){:target="\_blank"}**
-- **[Twitter](https://support.twitter.com/articles/20170519-uso-dei-cookie-e-di-altre-tecnologie-simili-da-parte-di-twitter){:target="\_blank"}**
-- **[Google+](http://www.google.com/policies/technologies/cookies){:target="\_blank"}**
-- **[Pinterest](https://about.pinterest.com/it/privacy-policy){:target="\_blank"}**
-- **[AddThis](http://www.addthis.com/privacy/privacy-policy){:target="\_blank"}**
-- **[Linkedin](https://www.linkedin.com/legal/cookie-policy){:target="\_blank"}**
+   > - **[Facebook](https://www.facebook.com/help/cookies){:target="\_blank"}**
+   > - **[Twitter](https://support.twitter.com/articles/20170519-uso-dei-cookie-e-di-altre-tecnologie-simili-da-parte-di-twitter){:target="\_blank"}**
+   > - **[Google+](http://www.google.com/policies/technologies/cookies){:target="\_blank"}**
+   > - **[Pinterest](https://about.pinterest.com/it/privacy-policy){:target="\_blank"}**
+   > - **[AddThis](http://www.addthis.com/privacy/privacy-policy){:target="\_blank"}**
+   > - **[Linkedin](https://www.linkedin.com/legal/cookie-policy){:target="\_blank"}**
 
 {:.align-center}
 
@@ -166,9 +166,11 @@ image: /images/logo/privacypolicy.jpg
 
 2. Il sito "sinergiaparrucchieri.it" intende pertanto informare l'utente sull'esistenza:
 
-- del diritto dell'interessato di chiedere al titolare l'accesso ai dati personali (art. 15 Regolamento UE), il loro aggiornamento (art. 7, co. 3, lett. a) D.Lgs. 196/2003), la rettifica (art. 16 Regolamento UE), l'integrazione (art. 7, co. 3, lett. a) D.Lgs. 196/2003) o la limitazione del trattamento che lo riguardino (art. 18 Regolamento UE) o di opporsi, per motivi legittimi, al loro trattamento (art. 21 Regolamento UE), oltre al diritto alla portabilità dei dati (art. 20 Regolamento UE);
-- del diritto di chiedere la cancellazione (art. 17 Regolamento UE), la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, compresi quelli di cui non è necessaria la conservazione in relazione agli scopi per i quali i dati sono stati raccolti o successivamente trattati (art. 7, co. 3, lett. b) D.Lgs. 196/2003);
-- del diritto di ottenere l'attestazione che le operazioni di aggiornamento, rettificazione, integrazione dei dati, cancellazione, blocco dei dati, trasformazione sono state portate a conoscenza, anche per quanto riguarda il loro contenuto, di coloro ai quali i dati sono stati comunicati o diffusi, eccettuato il caso in cui tale adempimento si rivela impossibile o comporta un impiego di mezzi manifestamente sproporzionato rispetto al diritto tutelato (art. 7, co. 3, lett. c) D.lgs. 196/2003);
+   > del diritto dell'interessato di chiedere al titolare l'accesso ai dati personali (art. 15 Regolamento UE), il loro aggiornamento (art. 7, co. 3, lett. a) D.Lgs. 196/2003), la rettifica (art. 16 Regolamento UE), l'integrazione (art. 7, co. 3, lett. a) D.Lgs. 196/2003) o la limitazione del trattamento che lo riguardino (art. 18 Regolamento UE) o di opporsi, per motivi legittimi, al loro trattamento (art. 21 Regolamento UE), oltre al diritto alla portabilità dei dati (art. 20 Regolamento UE);
+
+   > del diritto di chiedere la cancellazione (art. 17 Regolamento UE), la trasformazione in forma anonima o il blocco dei dati trattati in violazione di legge, compresi quelli di cui non è necessaria la conservazione in relazione agli scopi per i quali i dati sono stati raccolti o successivamente trattati (art. 7, co. 3, lett. b) D.Lgs. 196/2003);
+
+   > del diritto di ottenere l'attestazione che le operazioni di aggiornamento, rettificazione, integrazione dei dati, cancellazione, blocco dei dati, trasformazione sono state portate a conoscenza, anche per quanto riguarda il loro contenuto, di coloro ai quali i dati sono stati comunicati o diffusi, eccettuato il caso in cui tale adempimento si rivela impossibile o comporta un impiego di mezzi manifestamente sproporzionato rispetto al diritto tutelato (art. 7, co. 3, lett. c) D.lgs. 196/2003);
 
 3. Le richieste possono essere indirizzate al titolare del trattamento, senza formalità o, in alternativa, utilizzando il modello previsto dal Garante per la Protezione dei Dati Personali, o inviando una mail all'indirizzo: **[info@sinergiaparrucchieri.it.](mailto://info@sinergiaparrucchieri.it){:target="\_blank"}**
 
