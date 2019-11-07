@@ -4,9 +4,10 @@ layout: generico
 tag: La digitopressione e' una pratica antichissima sviluppata prevalentemente in Cina e si basa sugli stessi principi dell'agopuntura.
 form: si
 sitemap:
+image: /images/benessere/digitopressione.jpg
+categories: Benessere
+permalink: /digitopressione
 ---
-
-![](images/benessere/digitopressione.jpg){:.image.round.right}
 
 Secondo la Medicina Tradizionale Cinese l'energia (Qi) e' la base di ogni forma di vita e di materia nell'universo.
 

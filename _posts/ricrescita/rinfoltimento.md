@@ -4,9 +4,11 @@ layout: generico
 tag: Ecco come ottenere risultati sorprendenti in maniera naturale.
 form: si
 sitemap:
+  exclude: "yes"
+image: /images/ricrescita/rinfoltimentosmall.jpg
 ---
 
-[![](images/ricrescita/rinfoltimentosmall.jpg){:.image.round.right}](images/ricrescita/rinfoltimento.jpg){:target="_blank"}
+[![](images/ricrescita/rinfoltimentosmall.jpg){:.image.round.right}](images/ricrescita/rinfoltimento.jpg){:target="\_blank"}
 
 L. è arrivato da noi a ottobre lamentando una caduta dei capelli piuttosto marcata.
 
@@ -21,8 +23,8 @@ Lava i capelli ogni giorno e utilizza uno shampoo anticaduta che ha acquistato i
 
 Abbiamo proposto ad L. il nostro **#sistemabenessere**. Quattro trattamenti in salone per attenuare l’infiammazione della cute e riportarla ad uno stato di equilibrio con l’utilizzo di uno shampoo specifico delicato da utilizzare a casa. Successivamente il nostro trattamento di ricrescita del capello da utilizzare per due mesi a casa.
 
-A Marzo abbiamo ottenuto i risultati che si vedono nella **[FOTO (clicca x aprire)](images/ricrescita/rinfoltimento.jpg){:target="_blank"}** per la felicità del nostro cliente e la nostra soddisfazione!
+A Marzo abbiamo ottenuto i risultati che si vedono nella **[FOTO (clicca x aprire)](images/ricrescita/rinfoltimento.jpg){:target="\_blank"}** per la felicità del nostro cliente e la nostra soddisfazione!
 
-E’ fondamentale prendersi cura della cute con **#trattamenti** mirati e i giusti prodotti da utilizzare a casa, perché la bellezza dei capelli comincia da una cute sana! 
+E’ fondamentale prendersi cura della cute con **#trattamenti** mirati e i giusti prodotti da utilizzare a casa, perché la bellezza dei capelli comincia da una cute sana!
 
 Se anche tu vuoi risolvere un problema ed ottenere un capello sano prenota ora il tuo **#sinergiacheckup!!!**

@@ -1,12 +1,14 @@
 ---
 title: Rituale Detossinante
 layout: generico
-tag: Cosa significa detossinare la cute?
+tag: Lo sai come puoi ottenere dei capelli splendidi? Non sono solamente i trattamenti mirati alle lunghezze che rendono un capello sano.
+tag2: Cosa significa detossinare la cute?
 form: si
 sitemap:
+image: /images/benessere/ritualedetossinante.jpg
+categories: Benessere
+permalink: /ritualedetossinante
 ---
-
-![](images/benessere/ritualedetossinante.jpg){:.image.round.right}
 
 Ciao! Oggi vogliamo farti una domanda: Lo sai come puoi ottenere dei capelli splendidi?
 Non sono solamente i trattamenti mirati alle lunghezze che rendono un capello sano...
@@ -17,7 +19,7 @@ Ti e' mai capitato dopo un periodo particolarmente stressante, dopo una malattia
 Questi sono segnali che ci fanno capire che il nostro corpo ha necessita' di essere disintossicato.
 Fegato, reni, intestino e pelle sono i principali organi deputati al filtraggio delle scorie e quindi e' indispensabile allegerirli per sostenere e migliorare le loro funzioni.
 
-Un’alimentazione corretta e bilanciata e' il fondamento per riportare il nostro corpo a ritrovare un buon equilibrio, a farci sentire piu' in forza e con piu’ energia. Bere molta acqua aiuta nei processi di eliminazione delle scorie. 
+Un’alimentazione corretta e bilanciata e' il fondamento per riportare il nostro corpo a ritrovare un buon equilibrio, a farci sentire piu' in forza e con piu’ energia. Bere molta acqua aiuta nei processi di eliminazione delle scorie.
 
 Quali strategie adottare per migliorare la nostra pelle?
 
@@ -26,7 +28,7 @@ Il cuoio capelluto e' il prolungamento della pelle del viso e va trattato con la
 La maggior parte dei disagi del cuoio capelluto e della pelle sono causati da un’errata igiene.
 
 L’utilizzo di prodotti non idonei, troppo aggressivi, ricchi di siliconi, petrolati, tensioattivi troppo alcalini tendono ad indebolire la pelle disidratandola e lasciando residui che ne occludono i pori.
-E’ fondamentale utilizzare prodotti che igienizzano  e detossinano efficacemente ma che rispettano la pelle per favorire protezione e rigenerazione di cute e capelli.
+E’ fondamentale utilizzare prodotti che igienizzano e detossinano efficacemente ma che rispettano la pelle per favorire protezione e rigenerazione di cute e capelli.
 
 Nel nostro Sistema Benessere abbiamo inserito “Rituale detossinante”.
 

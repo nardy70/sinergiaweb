@@ -64,61 +64,20 @@
 				<p>La bellezza dei capelli comincia da una cute in equilibrio.</p>
 			</header>
 			<div class="flex flex-3">
+				{% for post in site.categories.Benessere %}
 				<div class="col align-center margin-bottom">
 					<div class="image round fit">
-						<a href="digitopressione"><img src="images/benessere/digitopressione.jpg" alt="" /></a>
+						<a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
 					</div>
-					<h3>Digitopressione</h3>
-					<p>La digitopressione e' una pratica antichissima sviluppata prevalentemente in Cina e si basa sugli stessi
-						principi dell'agopuntura.</p>
-					<a href="digitopressione" class="button">Per saperne di piu'</a>
+					{% if post.title2 %}
+					<h3>{{ post.title2 }}</h3>
+					{% else %}
+					<h3>{{ post.title }}</h3>
+					{% endif %}
+					<p>{{ post.tag }}</p>
+					<a href="{{ post.url }}" class="button">Per saperne di piu'</a>
 				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="massaggiayurveda"><img src="images/benessere/massaggiayurveda.jpg" alt="" /></a>
-					</div>
-					<h3>Massaggi e Ayurveda</h3>
-					<p>Le tecniche di massaggio viso-testa sono eccellenti ed hanno un’azione benefica mirata a ridurre lo stress
-						e le tensioni di varia natura.</p>
-					<a href="massaggiayurveda" class="button">Per saperne di piu'</a>
-				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="ritualedetossinante"><img src="images/benessere/ritualedetossinante.jpg" alt="" /></a>
-					</div>
-					<h3>Rituale Detossinante</h3>
-					<p>Lo sai come puoi ottenere dei capelli splendidi? Non sono solamente i trattamenti mirati alle lunghezze che
-						rendono un capello sano.</p>
-					<a href="ritualedetossinante" class="button">Per saperne di piu'</a>
-				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="checkup"><img src="images/benessere/checkup.jpg" alt="" /></a>
-					</div>
-					<h3>Sinergia Check-up</h3>
-					<p>Sinergia check-up e' il nostro metodo di lettura per capire lo stato in cui si trova la tua cute attraverso
-						una speciale microcamera.</p>
-					<a href="checkup" class="button">Per saperne di piu'</a>
-				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="colorebenessere"><img src="images/benessere/colorebenessere.jpg" alt="" /></a>
-					</div>
-					<h3>Colore Benessere</h3>
-					<p>Colorare con le piante? Questa e' la domanda a cui vogliamo rispondere per dare una giusta connotazione a
-						questo antico metodo di colorazione.</p>
-					<a href="colorebenessere" class="button">Per saperne di piu'</a>
-				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="shirodara"><img src="images/benessere/shirodara.jpg" alt="" /></a>
-					</div>
-					<h3>Shirodara</h3>
-					<p>Dolce colata di olio caldo sulla fronte in corrispondenza del sesto chakra, un gesto naturale per
-						migliorare il tuo benessere psico-fisico.</p>
-					<a href="shirodara" class="button">Per saperne di piu'</a>
-				</div>
-
+				{% endfor %}
 			</div>
 		</div>
 	</section>
@@ -131,24 +90,20 @@
 				<p></p>
 			</header>
 			<div class="flex flex-3">
+				{% for post in site.categories.Ricrescita %}
 				<div class="col align-center margin-bottom">
 					<div class="image round fit">
-						<a href="revitalizing"><img src="images/ricrescita/revitalizing.jpg" alt="" /></a>
+						<a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
 					</div>
-					<h3>Ricrescita del capello</h3>
-					<p>Diradamento? Ecco come ottenere risultati sorprendenti in maniera naturale ed efficace, favorendo la
-						ricrescita senza controindicazioni.</p>
-					<a href="revitalizing" class="button">Per saperne di piu'</a>
+					{% if post.title2 %}
+					<h3>{{ post.title2 }}</h3>
+					{% else %}
+					<h3>{{ post.title }}</h3>
+					{% endif %}
+					<p>{{ post.tag }}</p>
+					<a href="{{ post.url }}" class="button">Per saperne di piu'</a>
 				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="revitalizingdonna"><img src="images/ricrescita/revitalizingdonna.jpg" alt="" /></a>
-					</div>
-					<h3>Diradamento dei capelli</h3>
-					<p>Ecco come ottenere risultati sorprendenti in maniera naturale ed efficace, favorendo la ricrescita senza
-						controindicazioni.</p>
-					<a href="revitalizingdonna" class="button">Per saperne di piu'</a>
-				</div>
+				{% endfor %}
 			</div>
 		</div>
 	</section>
@@ -161,39 +116,20 @@
 				<p></p>
 			</header>
 			<div class="flex flex-3">
+				{% for post in site.categories.Consigli %}
 				<div class="col align-center margin-bottom">
 					<div class="image round fit">
-						<a href="autunnoecapelli"><img src="images/consigli/autunnoecapelli.jpg" alt="" /></a>
+						<a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
 					</div>
-					<h3>Perche' in autunno cadono i capelli?</h3>
-					<p>Arriva l’autunno e cadono le foglie... Arriva l’autunno e cadono i capelli!! Perche' succede questo?</p>
-					<a href="autunnoecapelli" class="button">Per saperne di piu'</a>
+					{% if post.title2 %}
+					<h3>{{ post.title2 }}</h3>
+					{% else %}
+					<h3>{{ post.title }}</h3>
+					{% endif %}
+					<p>{{ post.tag }}</p>
+					<a href="{{ post.url }}" class="button">Per saperne di piu'</a>
 				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="cominciareadetossinare"><img src="images/consigli/cominciareadetossinare.jpg" alt="" /></a>
-					</div>
-					<h3>Quando cominciare a detossinare la cute?</h3>
-					<p>E' pensiero comune che con l'arrivo della primavera sia bene cominciare una detossinazione del nostro
-						organismo.</p>
-					<a href="cominciareadetossinare" class="button">Per saperne di piu'</a>
-				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="primaveraecapelli"><img src="images/consigli/primaveraecapelli.jpg" alt="" /></a>
-					</div>
-					<h3>Come stanno i tuoi capelli in primavera?</h3>
-					<p>Tutto quello che devi sapere per avere capelli forti, in crescita e pieni di vitalità.</p>
-					<a href="primaveraecapelli" class="button">Per saperne di piu'</a>
-				</div>
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="suntherapy"><img src="images/consigli/suntherapy.jpg" alt="" /></a>
-					</div>
-					<h3>Capelli da Star anche in estate.</h3>
-					<p>Gli effetti del sole sui capelli possono essere dannosi tanto quanto quelli sulla pelle.</p>
-					<a href="suntherapy" class="button">Per saperne di piu'</a>
-				</div>
+				{% endfor %}
 			</div>
 		</div>
 	</section>

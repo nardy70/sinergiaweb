@@ -1,11 +1,14 @@
 ---
 title: Colorare con le Piante Tintorie
+title2: Colore Benessere
 layout: generico
-tag: L’alternativa naturale per colorare i capelli.
+tag: Colorare con le piante? Questa e' la domanda a cui vogliamo rispondere per dare una giusta connotazione a questo antico metodo di colorazione.
+tag2: L’alternativa naturale per colorare i capelli.
 sitemap:
+image: /images/benessere/colorebenessere.jpg
+categories: Benessere
+permalink: /colorebenessere
 ---
-
-![](images/benessere/colorebenessere.jpg){:.image.round.right}
 
 Perche' colorare con le piante?
 
@@ -13,7 +16,7 @@ Questa e' la domanda a cui vogliamo rispondere per dare una giusta connotazione 
 
 Colorare con le piante significa utilizzare radici, fiori e foglie essiccate ridotte in polvere alle quali viene aggiunta dell’acqua, una miscela colorante naturale e biodegradabile.
 
-Una colorazione cosi' naturale ha un modo di colorare il capello molto diverso da una colorazione chimica. 
+Una colorazione cosi' naturale ha un modo di colorare il capello molto diverso da una colorazione chimica.
 E’ un tono su tono, cioe’ uno strato di colore che va ad aggiungersi al colore naturale del capello.
 Questo e’ fondamentale per l’integrita’ dei capelli in quanto, non ricevendo l’azione dell’ossigeno che ne solleva le cuticole dello stelo per favorire lo sviluppo del pigmento, ne viene preservata la struttura naturale.
 

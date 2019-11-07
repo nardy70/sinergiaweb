@@ -1,30 +1,36 @@
 <!DOCTYPE HTML>
 <html>
-	{% include head.html %}
+{% include head.html %}
 
-	<body>
-	
-		{% include header.html %}
+<body>
 
-		<section class="wrapper">
-			<div class="inner">
-				<header class="align-center">
-					<h1>{{ page.title }}</h1>
-					<p>{{ page.tag }}</p>
-				</header>
-				<div class="flex flex2">
-					<div class="col col2 align-justify">
-						{{ content }}
-					</div>
+	{% include header.html %}
+
+	<section class="wrapper">
+		<div class="inner">
+			<header class="align-center">
+				<h1>{{ page.title }}</h1>
+				{% if page.tag2 %}
+				<p>{{ page.tag2 }}</p>
+				{% else %}
+				<p>{{ page.tag }}</p>
+				{% endif %}
+			</header>
+			<div class="flex flex2">
+				<div class="col col2 align-justify">
+					<img src="{{ page.image }}" class="image round right">
+					{{ content }}
 				</div>
 			</div>
-		</section>
+		</div>
+	</section>
 
-		{% if page.form == "si" %}
-			{% include form.html %}
-		{% endif %}
+	{% if page.form %}
+	{% include form.html %}
+	{% endif %}
 
-		{% include footer.html %}
+	{% include footer.html %}
 
-	</body>
+</body>
+
 </html>

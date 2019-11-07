@@ -4,9 +4,10 @@ layout: generico
 tag: Arriva l’autunno e cadono le foglie... Arriva l’autunno e cadono i capelli!! Perche' succede questo?
 form: si
 sitemap:
+image: /images/consigli/autunnoecapelli.jpg
+categories: Consigli
+permalink: /autunnoecapelli
 ---
-
-![](images/consigli/autunnoecapelli.jpg){:.image.round.right}
 
 Cerchiamo di spiegare e capire perchè questo fenomeno che vorremmo evitare si perpetua ad ogni fine estate!
 
