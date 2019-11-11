@@ -2774,6 +2774,41 @@
 		color: #777373;
 	}
 
+	.banner4 {
+		background-image: url('/images/banner4.jpg');
+    background-attachment: fixed;
+		background-size: cover;
+		background-repeat: no-repeat;
+		font-size: 1.1rem;
+	}
+
+	.banner41 {
+		background-color: rgba(206,154,112, 0.60);
+  	border-radius: 10px;
+  	line-height: 1.5;
+  	padding: 1rem 2rem;
+		-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+	}
+
+	.banner42 {
+		margin-top: 2rem;
+		background-color: rgba(100,76,69, 0.60);
+  	border-radius: 10px;
+  	line-height: 1.5;
+  	padding: 1rem 2rem;
+		-webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+	}
+
+	.banner42 b {
+		color: rgb(255, 255, 255)
+	}
+
+	.banner42 p {
+		font-style: italic;
+	}
+
 /* Tab */
 
 	ul.tab-list {
