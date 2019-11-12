@@ -1,83 +1,126 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body>
+    <header id="header" class="{{ include.content }}">
+      <div class="logo">
+        <a href="/index.html">{{ site.title }}</a>
+      </div>
+    </header>
 
-  <header id="header" class="{{ include.content }}">
-    <div class="logo"><a href="/index.html">{{ site.title }}</a></div>
-  </header>
+    <section class="wrapper banner4">
+      <div class="inner">
+        <header class="align-center">
+          <h1>{{ page.title }}</h1>
+        </header>
+        <div class="flex flex2">
+          <div class="col col2 align-justify banner41" style="color:black;">
+            <h5>PRESENTAZIONE</h5>
+            <p>
+              Le tecniche di massaggio viso-testa sono eccellenti da abbinare ai
+              trattamenti benessere, hanno un'azione benefica generale e mirata
+              a ridurre lo stress e le tensioni di varia natura, nella ricerca
+              dell'equilibrio totale della persona. Le manualita' sono lente e
+              avvolgenti, fondamentali per offrire un tempo e uno spazio di
+              accoglienza dove calmare la mente il corpo, le emozioni
+            </p>
 
-  <section class="wrapper banner4">
-    <div class="inner">
-      <header class="align-center">
-        <h1>{{ page.title }}</h1>
-      </header>
-      <div class="flex flex2">
-        <div class="col col2 align-justify banner41" style="color:black;">
-          <h5>PRESENTAZIONE</h5>
-          <p>Le tecniche di massaggio viso-testa sono eccellenti da abbinare ai trattamenti benessere, hanno un'azione
-            benefica generale e mirata a ridurre lo stress e le tensioni di varia natura, nella ricerca dell'equilibrio
-            totale della persona.
-            Le manualita' sono lente e avvolgenti, fondamentali per offrire un tempo e uno spazio di accoglienza dove
-            calmare la mente il corpo, le emozioni</p>
+            <h5>PROPRIETA' DEL MASSAGGIO</h5>
+            <ul>
+              <li>
+                Favorisce la distensione dei muscoli e dei tessuti cranio -
+                sacrali
+              </li>
+              <li>Favorisce la circolazione del sangue e della linfa</li>
+              <li>Favorisce il riequilibrio energetico</li>
+              <li>
+                Stimola la ricrescita dei capelli, rende elastico il tessuto
+              </li>
+              <li>
+                Rimuove le tossine in eccesso perche' facilita la diffusione e
+                la distribuzione dei liquidi
+              </li>
+              <li>
+                Stimola la secrezione di sostanze riparatrici e di difesa,
+                nonche' il sistema immunitario
+              </li>
+              <li>Migliora la cute, la forfora e la caduta</li>
+              <li>
+                Contribuisce al buonumore generando una sensazione di benessere
+                generale
+              </li>
+            </ul>
+          </div>
 
-          <h5>PROPRIETA' DEL MASSAGGIO</h5>
-          <ul>
-            <li>Favorisce la distensione dei muscoli e dei tessuti cranio - sacrali</li>
-            <li>Favorisce la circolazione del sangue e della linfa</li>
-            <li>Favorisce il riequilibrio energetico</li>
-            <li>Stimola la ricrescita dei capelli, rende elastico il tessuto</li>
-            <li>Rimuove le tossine in eccesso perche' facilita la diffusione e la distribuzione dei liquidi</li>
-            <li>Stimola la secrezione di sostanze riparatrici e di difesa, nonche' il sistema immunitario</li>
-            <li>Migliora la cute, la forfora e la caduta</li>
-            <li>Contribuisce al buonumore generando una sensazione di benessere generale</li>
-          </ul>
-        </div>
+          <div class="col col2 align-justify banner42" style="color:white;">
+            <h5 style="color:white;">TRATTAMENTI</h5>
+            <p></p>
 
-        <div class="col col2 align-justify banner42" style="color:white;">
-          <h5 style="color:white;">TRATTAMENTI</h5>
-          <p></p>
+            <b>MASSAGGIO AYURVEDICO THREEDOSHA - 30€</b>
+            <p>
+              Il massaggio Ayurvedico proviene dall’antica scienza indiana.
+              Questo massaggio adatto a tutti agisce sullo stress,
+              riequilibrando e nutrendo la cute. Il capello riceve lucentezza e
+              benessere.
+            </p>
 
-          <b>MASSAGGIO AYURVEDICO THREEDOSHA - 30€</b>
-          <p>Il massaggio Ayurvedico proviene dall’antica scienza indiana. Questo massaggio adatto a tutti agisce sullo
-            stress, riequilibrando e nutrendo la cute. Il capello riceve lucentezza e benessere.</p>
+            <b>MASSAGGIO AYURVEDICO VATA - 30€</b>
+            <p>
+              Questo massaggio energetico agisce sullo stress energetico ed
+              emozionale collegato al sistema nervoso. Ottimi risultati sulla
+              cute fredda e capello tendente al secco. Previene la caduta e la
+              forfora secca.
+            </p>
 
-          <b>MASSAGGIO AYURVEDICO VATA - 30€</b>
-          <p>Questo massaggio energetico agisce sullo stress energetico ed emozionale collegato al sistema nervoso. Ottimi
-          risultati sulla cute fredda e capello tendente al secco. Previene la caduta e la forfora secca.</p>
+            <b>MASSAGGIO AYURVEDICO PITTA - 30€</b>
+            <p>
+              Questo massaggio energetico agisce sullo stress energetico ed
+              emozionale collegato all’eccessiva attività mentale e fisica.
+              Ottimi risultati sulla cute arrossata e calda, migliora il capello
+              tendente al delicato e sensibile. Previene la forfora e la caduta.
+            </p>
 
-          <b>MASSAGGIO AYURVEDICO PITTA - 30€</b>
-          <p>Questo massaggio energetico agisce sullo stress energetico ed emozionale collegato all’eccessiva attività
-          mentale e fisica. Ottimi risultati sulla cute arrossata e calda, migliora il capello tendente al delicato e
-          sensibile. Previene la forfora e la caduta.</p>
+            <b>MASSAGGIO AYURVEDICO KAPHA - 30€</b>
+            <p>
+              Questo massaggio agisce sullo stress da scarsa attività fisica.
+              Ottimi risultati sulla cute intossinata e capello tendente al
+              grasso. Previene la forfora grassa e la caduta. Ha un’azione
+              pulente e tonificante.
+            </p>
 
-          <b>MASSAGGIO AYURVEDICO KAPHA - 30€</b>
-          <p>Questo massaggio agisce sullo stress da scarsa attività fisica. Ottimi risultati sulla cute intossinata e
-          capello tendente al grasso. Previene la forfora grassa e la caduta. Ha un’azione pulente e tonificante.</p>
+            <b>MASSAGGIO ITALIANO - 30€</b>
+            <p>
+              Questo massaggio veniva effettuato dai romani con ottimi
+              risultati. Migliora la circolazione sanguigna del cuoio capelluto
+              e il benessere del capello.
+            </p>
 
-          <b>MASSAGGIO ITALIANO - 30€</b>
-          <p>Questo massaggio veniva effettuato dai romani con ottimi risultati. Migliora la circolazione sanguigna del
-          cuoio capelluto e il benessere del capello.</p>
+            <b>OLEAZIONE DEI CAPELLI - SHIRODARA - 40€</b>
+            <p>
+              Questo trattamento è molto nutriente per la cute e il capello.
+              Permette di rilassarsi mentre un filo di olio tiepido con essenze
+              viene fatto colare sui capelli. Ideale su capelli molto secchi.
+            </p>
 
-          <b>OLEAZIONE DEI CAPELLI - SHIRODARA - 40€</b>
-          <p>Questo trattamento è molto nutriente per la cute e il capello. Permette di rilassarsi mentre un filo di olio
-          tiepido con essenze viene fatto colare sui capelli. Ideale su capelli molto secchi.</p>
+            <b>DIGITOPRESSIONE PUNTI MARMA - 30€</b>
+            <p>
+              In questo trattamento si usano le pressioni digitali che si basano
+              su precisi punti anatomici situati lungo canali energetici della
+              testa. E’ una tecnica dolce e rilassante per riequilibrare tutti i
+              tipi di cute e capelli.
+            </p>
 
-          <b>DIGITOPRESSIONE PUNTI MARMA - 20€</b>
-          <p>In questo trattamento si usano le pressioni digitali che si basano su precisi punti anatomici situati lungo
-          canali energetici della testa. E’ una tecnica dolce e rilassante per riequilibrare tutti i tipi di cute e
-          capelli.</p>
-
-          <b>STONES E CRISTALLI - 30€</b>
-          <p>In questo trattamento, le pietre laviche tiepide, trasmettono calore ed energia alla cute, rilassando tutto il
-          corpo. I cristalli con le loro proprietà agiscono positivamente sui chakra (aree energetiche), andando a
-          riequilibrare la cute e i capelli.</p>
+            <b>STONES E CRISTALLI - 30€</b>
+            <p>
+              In questo trattamento, le pietre laviche tiepide, trasmettono
+              calore ed energia alla cute, rilassando tutto il corpo. I
+              cristalli con le loro proprietà agiscono positivamente sui chakra
+              (aree energetiche), andando a riequilibrare la cute e i capelli.
+            </p>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
-
-</body>
-
+    </section>
+  </body>
 </html>
