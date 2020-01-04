@@ -1,7 +1,7 @@
 ---
 title: I nostri capelli durante l'inverno
 layout: generico
-tag: Cute e capelli messi a dura prova in questa stagione; le strategie per mantenerli in forma.
+tag: Cute e capelli messi a dura prova in questa stagione. Le strategie per mantenerli in forma.
 form: si
 sitemap:
 image: /images/consigli/invernoecapelli.jpg
