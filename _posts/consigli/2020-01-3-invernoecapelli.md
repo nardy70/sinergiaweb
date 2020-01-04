@@ -1,7 +1,7 @@
 ---
 title: I nostri capelli durante l'inverno
 layout: generico
-tag: E’ fondamentale prendersi cura della cute con trattamenti mirati ed i giusti prodotti da utilizzare a casa.
+tag: Cute e capelli messi a dura prova in questa stagione; le strategie per mantenerli in forma.
 form: si
 sitemap:
 image: /images/consigli/invernoecapelli.jpg
