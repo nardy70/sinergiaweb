@@ -1,7 +1,7 @@
 ---
-title: I nostri capelli durante l'inverno
+title: Cute e capelli in inverno vengono messi a dura prova
 layout: generico
-tag: Cute e capelli messi a dura prova in questa stagione. Le strategie per mantenerli in forma.
+tag: Per mantenerli in forma segui i consigli di Sinergia parrucchieri a Gonars.
 form: si
 sitemap:
 image: /images/consigli/invernoecapelli.jpg
