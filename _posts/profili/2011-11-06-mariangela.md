@@ -1,6 +1,6 @@
 ---
 title: Mariangela
-layout: generico
+layout: profilo
 tag: Grande passione per questo lavoro fin da piccola. Con una prima esperienza lavorativa di 9 anni e prendendo consapevolezza delle mie capacita' decisi di proporre a mia cugina Sabina di aprire un'attivita' insieme.
 tag2: Cio' che piu' mi piace del mio lavoro e' il contatto con la gente.
 sitemap:

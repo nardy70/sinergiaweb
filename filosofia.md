@@ -2,9 +2,9 @@
 title: La nostra filosofia
 layout: generico
 tag: Siamo il punto di riferimento per chi cerca la bellezza dei propri capelli nel segno del benessere e dell’equilibrio della cute.
+image: /images/pic01.jpg
 sitemap:
 ---
-![](images/pic01.jpg){:.image.round.right}
 
 ### La bellezza dei capelli comincia da una cute sana!
 
