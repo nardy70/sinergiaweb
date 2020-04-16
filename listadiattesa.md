@@ -21,7 +21,7 @@ sitemap:
 				<div class="6u 12u$(xsmall)"><input type="text" name="nome" id="nome" placeholder="Nome" required /></div>
 				<div class="6u 12u$(xsmall)"><input type="text" name="cognome" id="cognome" placeholder="Cognome" required /></div>
         <div class="6u 12u$(xsmall)"><input type="email" name="_replyto" id="email" placeholder="Email" /></div>
-        <div class="6u 12u$(xsmall)"><input type="text" name="tel" id="tel" placeholder="Telefono" required /></div>
+        <div class="6u 12u$(xsmall)"><input type="number" name="tel" id="tel" placeholder="Telefono" required /></div>
         <div class="12u$"><h4>Servizi:</h4></div>
         <div class="6u 12u$(xsmall)"><input type="checkbox" name="colore" id="colore"/><label for="colore">Colore</label></div>
         <div class="6u 12u$(xsmall)"><input type="checkbox" name="taglio" id="taglio"/><label for="taglio">Taglio</label></div>
