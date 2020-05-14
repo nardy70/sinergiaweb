@@ -28,7 +28,6 @@ sitemap:
         <div class="6u 12u$(xsmall)"><input type="checkbox" name="piega" id="piega"/><label for="piega">Piega</label></div>
         <div class="6u 12u$(xsmall)"><input type="checkbox" name="schiariture" id="schiariture"/><label for="schiariture">Schiariture</label></div>
         <div class="6u 12u$(xsmall)"><input type="checkbox" name="trattcutecapelli" id="trattcutecapelli"/><label for="trattcutecapelli">Trattamento Cute/Capelli</label></div>
-        <div class="6u 12u$(xsmall)"><input type="checkbox" name="refilunghie" id="refilunghie"/><label for="refilunghie">Refil Unghie</label></div>
 				<div class="12u$" style="margin-top: 1em;"><textarea name="note" id="note" placeholder="Note eventuali" rows="3"></textarea></div>
 				<input type="hidden" name="_subject" value="Lista di attesa" />
 				<input type="hidden" name="_format" value="plain" />
