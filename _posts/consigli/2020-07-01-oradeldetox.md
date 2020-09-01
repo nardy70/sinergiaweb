@@ -1,5 +1,5 @@
 ---
-title: Cos’è la detossinazione e perché è importante
+title: Detossinazione cos'è e perché è importante
 layout: generico
 tag: I consigli di Sinergia parrucchieri a Gonars per cute e capelli.
 form: si
