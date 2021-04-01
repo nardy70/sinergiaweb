@@ -1,40 +1,37 @@
-<!DOCTYPE HTML>
+<!DOCTYPE html>
 <html>
-{% include head.html %}
+  {% include head.html %}
 
-<body>
+  <body>
+    {% include header.html %}
 
-	{% include header.html %}
+    <section class="wrapper">
+      <div class="inner">
+        <header class="align-center">
+          {% if page.date %}
+          <span
+            ><i class="fa fa-clock-o"></i> {{ page.date | date:
+            "%d-%m-%Y"}}</span
+          >
+          {% endif %}
 
-	<section class="wrapper">
-		<div class="inner">
-			<header class="align-center">
-				{% if page.date %}
-					<span><i class="fa fa-clock-o"></i> {{ page.date | date: "%d-%m-%Y"}}</span>
-				{% endif %}
-				
-				<h1>{{ page.title }}</h1>
-				{% if page.tag2 %}
-					<p>{{ page.tag2 }}</p>
-				  {% else %}
-					<p>{{ page.tag }}</p>
-				{% endif %}
-			</header>
-			<div class="flex flex2">
-				<div class="col col2 align-justify">
-					<img src="{{ page.image }}" class="image round right">
-					{{ content }}
-				</div>
-			</div>
-		</div>
-	</section>
+          <h1>{{ page.title }}</h1>
+          {% if page.tag2 %}
+          <p>{{ page.tag2 }}</p>
+          {% else %}
+          <p>{{ page.tag }}</p>
+          {% endif %}
+        </header>
+        <div class="flex flex2">
+          <div class="col col2 align-justify">
+            <img src="{{ page.image }}" class="image round right" />
+            {{ content }}
+          </div>
+        </div>
+      </div>
+    </section>
 
-	{% if page.form %}
-	{% include form.html %}
-	{% endif %}
-
-	{% include footer.html %}
-
-</body>
-
+    {% if page.form %} {% include form.html %} {% endif %} {% include
+    footer.html %}
+  </body>
 </html>
