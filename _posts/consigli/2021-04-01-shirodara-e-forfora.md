@@ -20,7 +20,9 @@ Innanzitutto facciamo chiarezza su cos'è la forfora.
 La forfora è un disordine della pelle causato da un accelerato ricambio delle cellule epidermiche che vengono prodotte in eccesso ed è caratterizzata dalla presenza di squame biancastre disposte in chiazze o diffuse su tutto il cuoio capelluto.
 In questo caso la cute si presenta piuttosto secca e le squame sono sottili e si staccano facilmente dal cuoio capelluto.
 La forfora grassa invece si differenzia dalla precedente in quanto il cuoio capelluto è ricoperto da spesse scaglie giallastre e da una eccessiva produzione di sebo ed è accompagnata spesso da irritazione, prurito e infiammazione del cuoio capelluto.
+
 **Quali sono i fattori che provocano la forfora?**
+
 Innanzitutto un dato scientificamente accertato è che nelle squame e fra i capelli dei soggetti con forfora è spesso presente una quantità massiva di un fungo (pityrosporum ovalis). Questo è normalmente presente nella nostra cute, ma che diventa patogenico, cioè quanto più aumenta allora può provocare la forfora.
 
 Altre possibili cause:
