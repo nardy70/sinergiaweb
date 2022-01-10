@@ -94,6 +94,10 @@ image: /images/logo/privacypolicy.jpg
 
 3. Si applicherà l'articolo 22 del Regolamento UE 2016/679 e l'articolo 122 del Codice in materia di protezione dei dati.
 
+4. Di seguito la sua cookies policy:
+
+   > - <script id="CookieDeclaration" src="https://consent.cookiebot.com/a15a02fc-3a06-44d3-85b1-93dde2a9c1ab/cd.js" type="text/javascript" async></script>
+
 {:.align-center}
 
 #### III - DATI TRATTATI
@@ -214,5 +218,3 @@ image: /images/logo/privacypolicy.jpg
 
 \*Privacy Policy Icon made by **[Picol](https://www.flaticon.com/authors/picol){:target="\_blank"}** from **[www.flaticon.com](https://www.flaticon.com/){:target="\_blank"}** is licensed by **[CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/){:target="\_blank"}\***
 {:.align-right .smallsize}
-
-5. <script id="CookieDeclaration" src="https://consent.cookiebot.com/a15a02fc-3a06-44d3-85b1-93dde2a9c1ab/cd.js" type="text/javascript" async></script>
