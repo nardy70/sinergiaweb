@@ -1,84 +1,199 @@
 <head>
-	<title>{{ site.name }}</title>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, initial-scale=1" />
-	<link rel="stylesheet" href="/assets/css/main.css" />
+  <title>{{ site.name }}</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <link rel="stylesheet" href="/assets/css/main.css" />
 
-	<link rel="stylesheet" type="text/css"
-		href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css" />
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.5/css/fork-awesome.min.css"
-		integrity="sha256-P64qV9gULPHiZTdrS1nM59toStkgjM0dsf5mK/UwBV4=" crossorigin="anonymous">
+  <link
+    rel="stylesheet"
+    type="text/css"
+    href="//cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.1.0/cookieconsent.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.jsdelivr.net/npm/fork-awesome@1.1.5/css/fork-awesome.min.css"
+    integrity="sha256-P64qV9gULPHiZTdrS1nM59toStkgjM0dsf5mK/UwBV4="
+    crossorigin="anonymous"
+  />
 
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
-	<link rel="apple-touch-icon" sizes="57x57" href="/images/ico/apple-icon-57x57.png">
-	<link rel="apple-touch-icon" sizes="60x60" href="/images/ico/apple-icon-60x60.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/images/ico/apple-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="76x76" href="/images/ico/apple-icon-76x76.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/images/ico/apple-icon-114x114.png">
-	<link rel="apple-touch-icon" sizes="120x120" href="/images/ico/apple-icon-120x120.png">
-	<link rel="apple-touch-icon" sizes="144x144" href="/images/ico/apple-icon-144x144.png">
-	<link rel="apple-touch-icon" sizes="152x152" href="/images/ico/apple-icon-152x152.png">
-	<link rel="apple-touch-icon" sizes="180x180" href="/images/ico/apple-icon-180x180.png">
-	<link rel="apple-touch-icon" sizes="192x192" href="/images/ico/apple-icon-precomposed.png">
-	<link rel="icon" type="image/png" sizes="192x192" href="/images/ico/android-icon-192x192.png">
-	<link rel="icon" type="image/png" sizes="144x144" href="/images/ico/android-icon-144x144.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="/images/ico/android-icon-96x96.png">
-	<link rel="icon" type="image/png" sizes="72x72" href="/images/ico/android-icon-72x72.png">
-	<link rel="icon" type="image/png" sizes="48x48" href="/images/ico/android-icon-48x48.png">
-	<link rel="icon" type="image/png" sizes="36x36" href="/images/ico/android-icon-36x36.png">
-	<link rel="icon" type="image/png" sizes="32x32" href="/images/ico/favicon-32x32.png">
-	<link rel="icon" type="image/png" sizes="96x96" href="/images/ico/favicon-96x96.png">
-	<link rel="icon" type="image/png" sizes="16x16" href="/images/ico/favicon-16x16.png">
-	<link rel="manifest" href="/images/ico/manifest.json">
-	<meta name="msapplication-TileColor" content="#ffffff">
-	<meta name="msapplication-TileImage" content="/images/ico/ms-icon-144x144.png">
-	<meta name="theme-color" content="#ffffff">
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+  <link
+    rel="apple-touch-icon"
+    sizes="57x57"
+    href="/images/ico/apple-icon-57x57.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="60x60"
+    href="/images/ico/apple-icon-60x60.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="72x72"
+    href="/images/ico/apple-icon-72x72.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="76x76"
+    href="/images/ico/apple-icon-76x76.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="114x114"
+    href="/images/ico/apple-icon-114x114.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="120x120"
+    href="/images/ico/apple-icon-120x120.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="144x144"
+    href="/images/ico/apple-icon-144x144.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="152x152"
+    href="/images/ico/apple-icon-152x152.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="180x180"
+    href="/images/ico/apple-icon-180x180.png"
+  />
+  <link
+    rel="apple-touch-icon"
+    sizes="192x192"
+    href="/images/ico/apple-icon-precomposed.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="192x192"
+    href="/images/ico/android-icon-192x192.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="144x144"
+    href="/images/ico/android-icon-144x144.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="96x96"
+    href="/images/ico/android-icon-96x96.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="72x72"
+    href="/images/ico/android-icon-72x72.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="48x48"
+    href="/images/ico/android-icon-48x48.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="36x36"
+    href="/images/ico/android-icon-36x36.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="32x32"
+    href="/images/ico/favicon-32x32.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="96x96"
+    href="/images/ico/favicon-96x96.png"
+  />
+  <link
+    rel="icon"
+    type="image/png"
+    sizes="16x16"
+    href="/images/ico/favicon-16x16.png"
+  />
+  <link rel="manifest" href="/images/ico/manifest.json" />
+  <meta name="msapplication-TileColor" content="#ffffff" />
+  <meta
+    name="msapplication-TileImage"
+    content="/images/ico/ms-icon-144x144.png"
+  />
+  <meta name="theme-color" content="#ffffff" />
 
-	<!-- Facebook Pixel Code -->
-	<script>
-		! function (f, b, e, v, n, t, s) {
-			if (f.fbq) return;
-			n = f.fbq = function () {
-				n.callMethod ?
-					n.callMethod.apply(n, arguments) : n.queue.push(arguments)
-			};
-			if (!f._fbq) f._fbq = n;
-			n.push = n;
-			n.loaded = !0;
-			n.version = '2.0';
-			n.queue = [];
-			t = b.createElement(e);
-			t.async = !0;
-			t.src = v;
-			s = b.getElementsByTagName(e)[0];
-			s.parentNode.insertBefore(t, s)
-		}(window, document, 'script',
-			'https://connect.facebook.net/en_US/fbevents.js');
-		fbq('init', '1068587006617640');
-		fbq('track', 'PageView');
-	</script>
-	<noscript>
-		<img height="1" width="1" src="https://www.facebook.com/tr?id=1068587006617640&ev=PageView
-	&noscript=1" />
-	</noscript>
+  <!-- CookieBot -->
+  <script
+    id="Cookiebot"
+    src="https://consent.cookiebot.com/uc.js"
+    data-cbid="a15a02fc-3a06-44d3-85b1-93dde2a9c1ab"
+    data-blockingmode="auto"
+    type="text/javascript"
+  ></script>
 
-	<script>
-		fbq('track', 'ViewContent');
-	</script>
-	<!-- End Facebook Pixel Code -->
+  <!-- Facebook Pixel Code -->
+  <script>
+    !(function (f, b, e, v, n, t, s) {
+      if (f.fbq) return;
+      n = f.fbq = function () {
+        n.callMethod
+          ? n.callMethod.apply(n, arguments)
+          : n.queue.push(arguments);
+      };
+      if (!f._fbq) f._fbq = n;
+      n.push = n;
+      n.loaded = !0;
+      n.version = "2.0";
+      n.queue = [];
+      t = b.createElement(e);
+      t.async = !0;
+      t.src = v;
+      s = b.getElementsByTagName(e)[0];
+      s.parentNode.insertBefore(t, s);
+    })(
+      window,
+      document,
+      "script",
+      "https://connect.facebook.net/en_US/fbevents.js"
+    );
+    fbq("init", "1068587006617640");
+    fbq("track", "PageView");
+  </script>
+  <noscript>
+    <img
+      height="1"
+      width="1"
+      src="https://www.facebook.com/tr?id=1068587006617640&ev=PageView
+	&noscript=1"
+    />
+  </noscript>
 
-	<!-- Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132360855-1"></script>
-	<script>
-		window.dataLayer = window.dataLayer || [];
+  <script>
+    fbq("track", "ViewContent");
+  </script>
+  <!-- End Facebook Pixel Code -->
 
-		function gtag() {
-			dataLayer.push(arguments);
-		}
-		gtag('js', new Date());
+  <!-- Google Analytics -->
+  <script
+    async
+    src="https://www.googletagmanager.com/gtag/js?id=UA-132360855-1"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
 
-		gtag('config', 'UA-132360855-1');
-	</script>
-	<!-- End Google Analytics -->
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
+    gtag("config", "UA-132360855-1");
+  </script>
+  <!-- End Google Analytics -->
 </head>
