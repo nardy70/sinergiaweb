@@ -1,7 +1,7 @@
 ---
-title: INFORMATIVA PRIVACY
+title: INFORMATIVA PRIVACY E COOKIES POLICY
 layout: generico
-tag: INFORMAZIONI RELATIVE ALLA PRIVACY POLICY DEL SITO
+tag: INFORMAZIONI RELATIVE ALLA PRIVACY E COOKIES POLICY DEL SITO
 sitemap:
 image: /images/logo/privacypolicy.jpg
 ---
@@ -94,7 +94,9 @@ image: /images/logo/privacypolicy.jpg
 
 3. Si applicherà l'articolo 22 del Regolamento UE 2016/679 e l'articolo 122 del Codice in materia di protezione dei dati.
 
-4. Di seguito la sua cookies policy:
+#### 5 - Cookies policy
+
+1. Di seguito la sua cookies policy:
 
    > - <script id="CookieDeclaration" src="https://consent.cookiebot.com/a15a02fc-3a06-44d3-85b1-93dde2a9c1ab/cd.js" type="text/javascript" async></script>
 
