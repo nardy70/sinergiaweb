@@ -3580,7 +3580,7 @@ table.alt tbody tr td {
 
 @media screen and (max-width: 1600px) {
   .wrapper > .inner {
-    width: 60em;
+    width: 40em;
   }
 }
 

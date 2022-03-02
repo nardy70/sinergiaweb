@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+
+    <section class="wrapper">
+      <div class="inner">
+        <header class="align-center">
+          <h3>{{ page.title }}</h3>
+        </header>
+        <div class="align-center">
+          <object
+            data="{{page.doc}}"
+            type="application/pdf"
+            width="70%"
+            height="720"
+          >
+            <iframe src="{{page.doc}}" width="70%" height="720">
+              <p>This browser does not support PDF!</p>
+            </iframe>
+          </object>
+        </div>
+      </div>
+    </section>
+
+    {% include footer.html %}
+  </body>
+</html>
