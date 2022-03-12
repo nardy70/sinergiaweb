@@ -71,48 +71,28 @@
     </div>
   </section>
 
-  <!-- Section BENESSERE OLD-->
-  <!-- <section id="benessere" class="wrapper style1">
-		<div class="inner">
-			<header class="align-center">
-				<h2>Il nostro sistema benessere</h2>
-				<p>La bellezza dei capelli comincia da una cute in equilibrio.</p>
-			</header>
-			<div class="flex flex-3">
-				{% for post in site.categories.Benessere %}
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
-					</div>
-					{% if post.title2 %}
-					<h3>{{ post.title2 }}</h3>
-					{% else %}
-					<h3>{{ post.title }}</h3>
-					{% endif %}
-					<p>{{ post.tag }}</p>
-					<a href="{{ post.url }}" class="button">Per saperne di piu'</a>
-				</div>
-				{% endfor %}
-			</div>
-		</div>
-	</section> -->
-
-  <!-- Section BENESSERE OLD-->
-  <section id="benessere" class="wrapper style1">
+  <!-- Section BLOG -->
+  <section id="blog" class="wrapper style1">
     <div class="inner">
       <header class="align-center">
-        <h2>LE NOSTRE PROPOSTE 2022</h2>
-        <p>Un anno di Bellezza e Benessere.</p>
+        <h2>Il nostro Blog</h2>
+        <p></p>
       </header>
-      <div class="flex flex-2">
-        {% for post in site.categories.Benessere %}
+      <div class="flex flex-3">
+        {% for post in site.categories.Consigli %}
         <div
           class="col align-center margin-bottom"
-          style="padding-left: 8em; padding-right: 8em"
+          style="padding-right: 2em; padding-left: 2em"
         >
           <div class="image round fit">
             <a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
           </div>
+          {% if post.title2 %}
+          <h3>{{ post.title2 }}</h3>
+          {% else %}
+          <h3>{{ post.title }}</h3>
+          {% endif %}
+          <p>{{ post.tag }}</p>
           <a href="{{ post.url }}" class="button">Per saperne di piu'</a>
         </div>
         {% endfor %}
@@ -149,28 +129,48 @@
     </div>
   </section>
 
-  <!-- Section BLOG -->
-  <section id="blog" class="wrapper style1">
+  <!-- Section BENESSERE OLD-->
+  <!-- <section id="benessere" class="wrapper style1">
+		<div class="inner">
+			<header class="align-center">
+				<h2>Il nostro sistema benessere</h2>
+				<p>La bellezza dei capelli comincia da una cute in equilibrio.</p>
+			</header>
+			<div class="flex flex-3">
+				{% for post in site.categories.Benessere %}
+				<div class="col align-center margin-bottom">
+					<div class="image round fit">
+						<a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
+					</div>
+					{% if post.title2 %}
+					<h3>{{ post.title2 }}</h3>
+					{% else %}
+					<h3>{{ post.title }}</h3>
+					{% endif %}
+					<p>{{ post.tag }}</p>
+					<a href="{{ post.url }}" class="button">Per saperne di piu'</a>
+				</div>
+				{% endfor %}
+			</div>
+		</div>
+	</section> -->
+
+  <!-- Section LISTINI-->
+  <section id="listini" class="wrapper style1">
     <div class="inner">
       <header class="align-center">
-        <h2>Il nostro Blog</h2>
-        <p></p>
+        <h2>LE NOSTRE PROPOSTE 2022</h2>
+        <p>Un anno di Bellezza e Benessere.</p>
       </header>
-      <div class="flex flex-3">
-        {% for post in site.categories.Consigli %}
+      <div class="flex flex-2">
+        {% for post in site.categories.Benessere %}
         <div
           class="col align-center margin-bottom"
-          style="padding-right: 2em; padding-left: 2em"
+          style="padding-left: 8em; padding-right: 8em"
         >
           <div class="image round fit">
             <a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
           </div>
-          {% if post.title2 %}
-          <h3>{{ post.title2 }}</h3>
-          {% else %}
-          <h3>{{ post.title }}</h3>
-          {% endif %}
-          <p>{{ post.tag }}</p>
           <a href="{{ post.url }}" class="button">Per saperne di piu'</a>
         </div>
         {% endfor %}
