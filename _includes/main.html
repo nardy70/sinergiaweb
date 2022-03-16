@@ -107,12 +107,9 @@
         <h2>Ricrescita del capello</h2>
         <p></p>
       </header>
-      <div class="flex flex-2">
+      <div class="flex flex-3">
         {% for post in site.categories.Ricrescita %}
-        <div
-          class="col align-center margin-bottom"
-          style="padding-right: 8em; padding-left: 8em"
-        >
+        <div class="col align-center margin-bottom">
           <div class="image round fit">
             <a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
           </div>
@@ -131,38 +128,63 @@
 
   <!-- Section BENESSERE OLD-->
   <!-- <section id="benessere" class="wrapper style1">
-		<div class="inner">
-			<header class="align-center">
-				<h2>Il nostro sistema benessere</h2>
-				<p>La bellezza dei capelli comincia da una cute in equilibrio.</p>
-			</header>
-			<div class="flex flex-3">
-				{% for post in site.categories.Benessere %}
-				<div class="col align-center margin-bottom">
-					<div class="image round fit">
-						<a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
-					</div>
-					{% if post.title2 %}
-					<h3>{{ post.title2 }}</h3>
-					{% else %}
-					<h3>{{ post.title }}</h3>
-					{% endif %}
-					<p>{{ post.tag }}</p>
-					<a href="{{ post.url }}" class="button">Per saperne di piu'</a>
-				</div>
-				{% endfor %}
-			</div>
-		</div>
-	</section> -->
+    <div class="inner">
+      <header class="align-center">
+        <h2>Il nostro sistema benessere</h2>
+        <p>La bellezza dei capelli comincia da una cute in equilibrio.</p>
+      </header>
+      <div class="flex flex-3">
+        {% for post in site.categories.Benessere %}
+        <div class="col align-center margin-bottom">
+          <div class="image round fit">
+            <a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
+          </div>
+          {% if post.title2 %}
+          <h3>{{ post.title2 }}</h3>
+          {% else %}
+          <h3>{{ post.title }}</h3>
+          {% endif %}
+          <p>{{ post.tag }}</p>
+          <a href="{{ post.url }}" class="button">Per saperne di piu'</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section> -->
 
-  <!-- Section LISTINI-->
-  <section id="listini" class="wrapper style1">
+  <section id="benessere" class="wrapper style1">
     <div class="inner">
       <header class="align-center">
         <h2>LE NOSTRE PROPOSTE 2022</h2>
         <p>Un anno di Bellezza e Benessere.</p>
       </header>
-      <div class="flex flex-2">
+      <div class="flex flex-3">
+        {% for post in site.categories.Benessere %}
+        <div class="col align-center margin-bottom">
+          <div class="image round fit">
+            <a href="{{ post.url }}"><img src="{{ post.image }}" alt="" /></a>
+          </div>
+          {% if post.title2 %}
+          <h3>{{ post.title2 }}</h3>
+          {% else %}
+          <h3>{{ post.title }}</h3>
+          {% endif %}
+          <p>{{ post.tag }}</p>
+          <a href="{{ post.url }}" class="button">Per saperne di piu'</a>
+        </div>
+        {% endfor %}
+      </div>
+    </div>
+  </section>
+
+  <!-- Section LISTINI-->
+  <!-- <section id="listini" class="wrapper style1">
+    <div class="inner">
+      <header class="align-center">
+        <h2>LE NOSTRE PROPOSTE 2022</h2>
+        <p>Un anno di Bellezza e Benessere.</p>
+      </header>
+      <div class="flex flex-4">
         {% for post in site.categories.Benessere %}
         <div
           class="col align-center margin-bottom"
@@ -176,5 +198,5 @@
         {% endfor %}
       </div>
     </div>
-  </section>
+  </section> -->
 </div>
