@@ -1,5 +1,5 @@
 ---
-title: Cute sana e capelli in forma
+title: Sinergia check-up
 layout: generico
 tag: Cute sana e capelli in forma, ecco alcuni consigli di Sinergia parrucchieri a Gonars, le prime consulenti cutanee per la bellezza del tuo capello.
 tag2: Il nostro metodo di lettura per il benessere della tua cute.

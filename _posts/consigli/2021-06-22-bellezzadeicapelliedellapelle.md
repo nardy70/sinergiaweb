@@ -1,5 +1,5 @@
 ---
-title: La bellezza dei capelli e della pelle
+title: Anche i capelli invecchiano
 title2:
 layout: generico
 tag: Ecco i consigli di Sinergia parrucchieri a Gonars, le prime consulenti cutanee per la bellezza del tuo capello.

@@ -1,5 +1,5 @@
 ---
-title: I capelli e l’equilibrio della cute
+title: Nutrire lo stelo
 title2:
 layout: generico
 tag: I capelli e l’equilibrio della cute, segui i consigli di sinergia parrucchieri a gonars, le prime consulenti cutanee per la bellezza del tuo capello.

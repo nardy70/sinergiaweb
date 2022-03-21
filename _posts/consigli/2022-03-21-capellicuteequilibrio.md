@@ -1,5 +1,5 @@
 ---
-title: Capelli e cute in equilibrio
+title: La pelle - il nostro organo di comunicazione
 layout: generico
 tag: Capelli e cute in equilibrio, ecco i consigli utili di Sinergia parrucchieri a Gonars, le prime consulenti cutanee per la bellezza del tuo capello.
 tag2:
