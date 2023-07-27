@@ -1,13 +1,13 @@
 ---
-title: Perché alla fine dell’estate cadono i capelli?
+title: Caduta dei capelli in estate.
 layout: generico
 tag: Perché alla fine dell’estate cadono i capelli? Segui i consigli di Sinergia parrucchieri a Gonars.
 tag2:
 form: si
 sitemap:
-image: /images/consigli/estatecapelli.jpg
+image: /images/consigli/cadutadeicapelliinestate.jpg
 categories: Consigli
-permalink: /estatecapelli
+permalink: /cadutadeicapelliinestate
 ---
 
 Alla fine della stagione estiva è molto probabile che vi accorgiate di una debolezza dei capelli, aumenta la caduta, sono fragili e a volte li notate anche molto assottigliati. Come mai? E cosa possiamo fare per limitare queste problematiche?
