@@ -12,8 +12,6 @@ permalink: /benesserecutecapellidopoestate
 
 Sta iniziando il periodo di passaggio verso una nuova stagione e come di consueto noi ci preoccupiamo, durante la fase di rientro alla normale routine, di andare a ripristinare la situazione di capelli e cute. Siamo a settembre e ci avviciniamo al tanto temuto periodo in cui la caduta di capelli è accentuata.
 
-
-
 Facciamo chiarezza: la caduta di capelli **- quando è fisiologica e non presenta anomalie -** è un ricambio: ogni capello ha un suo ciclo vitale, nasce, cresce e alla fine muore e quindi cade naturalmente. Verrà poi quindi sostituito, ma dobbiamo innanzitutto fare a settembre un buon check-up della situazione in corso, così da affrontare eventuali criticità con efficacia e per tempo.
 
 I capelli quindi cambiano, cadono durante tutto l’arco dell’anno ma in particolare nel post estate ce ne accorgiamo di più. Un motivo di questa caduta, che in genere si registra tra settembre e ottobre, è lo stress che il capello ha subito in estate. 
