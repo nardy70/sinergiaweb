@@ -1,7 +1,6 @@
 name: SinergiaParrucchieri
 title: Sinergia
 tagline: Le prime consulenti cutanee per la bellezza del tuo capello
-url: www.sinergiaparrucchieri.it
 
 plugins:
   - jekyll-seo-tag
