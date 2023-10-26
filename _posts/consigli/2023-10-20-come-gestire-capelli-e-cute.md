@@ -21,5 +21,4 @@ Per fretta o per disattenzione a volte non detergiamo a fondo il cuoio capelluto
 
 In questo modo il capello rimane pulito, leggero e morbido, anche la cute si presenterà più leggera e fresca. Il benessere cutaneo è la base per un look sempre a posto e in ordine, sarà anche più facile da gestire e inoltre l’eccesso di sebo non andrà a occludere i follicoli, col rischio di creare ulteriori anomalie, che possono portare a irritazioni e fino alla caduta di capelli. Per cui abbiatene sempre massima cura anche durante lo shampoo e con la corretta manualità, efficace ma dolce, fatta con i polpastrelli e con piccoli movimenti circolari, se avete dubbi o domande scriveteci, o passate direttamente da noi, saremo felici di accogliervi in salone, a presto!
 
-
 Sinergia staff
