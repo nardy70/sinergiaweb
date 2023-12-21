@@ -1,7 +1,7 @@
 ---
-title: Hai “male ai capelli”? È la cute!
+title: Hai male ai capelli? È la cute!
 layout: generico
-tag: Hai “male ai capelli”? È la cute! Segui i consigli di Sinergia parrucchieri a Gonars.
+tag: Hai male ai capelli? È la cute! Segui i consigli di Sinergia parrucchieri a Gonars.
 tag2:
 form: si
 sitemap:
