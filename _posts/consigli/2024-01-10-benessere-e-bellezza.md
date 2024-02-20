@@ -1,5 +1,5 @@
 ---
-title: Ecco come cominciare al meglio il 2024
+title: Ecco come cominciare al meglio il 2024.
 layout: generico
 tag: Benessere della cute e bellezza dei capelli, ecco come cominciare al meglio il 2024, segui i consigli di Sinergia parrucchieri a Gonars.
 tag2:
