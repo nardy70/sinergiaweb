@@ -1,7 +1,7 @@
 ---
 title: Da cosa influisce la bellezza dei capelli?
 layout: generico
-tag: Dal nostro blog. Capelli e benessere, segui i consigli di Sinergia parrucchieri a Gonars.
+tag: I capelli sono profondamente connessi con il nostro benessere. Segui i consigli di Sinergia parrucchieri a Gonars.
 tag2:
 form: si
 sitemap:
@@ -10,7 +10,6 @@ categories: Consigli
 permalink: /bellezzacapelli
 ---
 
-I capelli sono profondamente connessi con il nostro benessere.
 Quando non ci sentiamo fisicamente in forma, quando abbiamo carenze nutrizionali, ma anche quando ci sentiamo psicologicamente provati, i nostri capelli riflettono esattamente il nostro disagio interiore. Infatti risultano più fragili, opachi, si sporcano facilmente e sono poco vitali.
 
 Questo ci fa capire che risolvere il problema dei capelli andando ad agire esclusivamente su di essi è poco efficace in termini di risultati nell’immediato e di mantenimento nel tempo.
