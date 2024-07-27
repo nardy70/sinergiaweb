@@ -10,7 +10,7 @@ categories: Consigli
 permalink: /fuoristagione
 ---
 
-Spesso capita di perdere i capelli in maniera copiosa al di fuori dei classici periodi dell’anno.
+Spesso capita di perdere i capelli al di fuori dei classici periodi dell’anno.
 
 La prima cosa da fare è cercare di capire la causa che può aver scatenato questo fenomeno che spesso si trasforma anche in  vere e proprie alopecie cioè perdita completa di capelli in diverse aree del cuoio capelluto.
 
