@@ -10,8 +10,6 @@ categories: Consigli
 permalink: /trattamenticadutacapelli
 ---
 
-**Parliamo di caduta dei capelli: cosa fare per prevenirla e contrastarla al meglio**
-
 Ogni capello segue un ciclo vitale ben definito: nasce, cresce, cade e lascia spazio a un nuovo capello. Tuttavia, il tempismo è fondamentale! La chiave per mantenere una chioma sana è **giocare d’anticipo**: prevenire e monitorare la situazione attuale del cuoio capelluto e dei capelli. Ecco perché una consulenza professionale è il primo passo per scoprire di più sulla salute della nostra cute e agire in modo efficace.
 
 ### Perché è importante prevenire prima che la caduta si manifesti?  
@@ -35,4 +33,4 @@ Il vero nemico non è la caduta in sé, ma il rischio di non sostituirla con cap
 
 **Affidati a noi per una consulenza mirata.** Ti aspettiamo in salone per prenderci cura della salute dei tuoi capelli. A presto!
 
-Sinergia staff
+***Sinergia staff***
