@@ -1,7 +1,7 @@
 ---
 title: Dolore alla cute alla base dei capelli
 layout: generico
-tag: Un segnale da non trascurare, segui i consigli di Sinergia parrucchieri a Gonars
+tag: Un segnale da non trascurare. Segui i consigli di Sinergia parrucchieri a Gonars
 tag2:
 form: si
 sitemap:
