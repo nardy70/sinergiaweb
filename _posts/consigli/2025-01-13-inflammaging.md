@@ -1,5 +1,5 @@
 ---
-title: Inflammaging in Tricologia
+title: Inflammaging, il Nemico Silenzioso dei Tuoi Capelli
 layout: generico
 tag: Cause, Sintomi e Rimedi. Segui i consigli di Sinergia parrucchieri a Gonars
 tag2:
@@ -9,8 +9,6 @@ image: /images/consigli/inflammaging.jpg
 categories: Consigli
 permalink: /inflammaging
 ---
-
-# **Inflammaging: Il Nemico Silenzioso dei Tuoi Capelli**
 
 Sai che un’infiammazione cronica, invisibile ma persistente, potrebbe essere alla base dei tuoi problemi di capelli? Si chiama **inflammaging**, un fenomeno che mette sotto stress il tuo cuoio capelluto e i tuoi capelli, compromettendone salute e bellezza. Scopri cos’è, come riconoscerlo e cosa puoi fare per contrastarlo.
 
