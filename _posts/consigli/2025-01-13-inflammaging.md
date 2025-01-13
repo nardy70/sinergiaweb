@@ -1,7 +1,7 @@
 ---
 title: Inflammaging in Tricologia
 layout: generico
-tag: Inflammaging in Tricologia - Cause, Sintomi e Rimedi. Segui i consigli di Sinergia parrucchieri a Gonars
+tag: Cause, Sintomi e Rimedi. Segui i consigli di Sinergia parrucchieri a Gonars
 tag2:
 form: si
 sitemap:
