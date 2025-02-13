@@ -9,7 +9,6 @@ image: /images/consigli/cadutaeperdita.jpg
 categories: Consigli
 permalink: /cadutaeperdita
 ---
-
 La caduta dei capelli e la perdita di capelli sono due problematiche che spesso vengono confuse, ma in realtà sono situazioni ben distinte. Facciamo un po’ di chiarezza!
 
 ### Caduta dei capelli
